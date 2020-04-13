@@ -1,0 +1,229 @@
+/***
+
+**************************************************************
+
+WARNING:
+
+This website is protected by copyright law and international treaties. Unauthorised reproduction or distribution of this website, or any portion of it, will result in severe criminal and civil penalties and will be prosecuted to the maximum extent possible under the law.
+
+**************************************************************
+
+***/
+
+
+@media (max-width: 1010px) {
+    .mobile {
+        display: inherit;
+    }
+    .topbar .col-md-6.text-left {
+        display: none;
+    }
+    .topbar .col-md-6 {
+        text-align: center!important
+    }
+    .topbar a:first-of-type {
+        display: none;
+    }
+    .topbar a:nth-child(2) {
+        border: 0
+    }
+    .topbar a {
+        font-size: 12px;
+    }
+    section {
+        padding: 30px 0px!important
+    }
+    h1 span,
+    h2 span,
+    h3 span {
+        border: 0px!important
+    }
+    header, header.short, header .overlay {
+        height:100%;
+        height:0px!important;
+        display:table;
+        clear:both;
+        content:"";
+        width:100%;
+        background:#319A3F!important;
+    }
+    header .navigation .menu {
+        display: none
+    }
+    header .navigation div.logo {
+        width: 100%!important
+    }
+    header .navigation div.logo img.logo {
+        width: 100%;
+        height: inherit;
+    }
+    header .navbar {
+        display: block;
+        z-index: 10001;
+        margin-top: 20px;
+    }
+    header.short .navbar {
+        box-shadow: none
+    }
+    header .content {
+        display: none
+    }
+    .home-features h2 {
+        font-weight: 500;
+        margin: 50px 0 20px 0
+    }
+    .home-features .home-intro {
+        padding: 0;
+        display: block;
+        text-align: center;
+        margin: 40px 0 50px 0;
+    }
+    .reviews {
+        margin-top: 50px
+    }
+    .reviews img {
+        display: none
+    }
+    .home-features .col-md-4:nth-child(2),
+    .home-features .col-md-4:nth-child(3) {
+        margin-top: 50px
+    }
+    .home section.social .overlay {
+        padding: 25px 0px
+    }
+    .home section.social .announcements {
+        display: none
+    }
+    .jump-plans {display:none}
+    .col-md-3.sidebar {
+        margin: 0 0 20px 0;
+    }
+    .col-md-3.sidebar a {
+        width: 100%;
+        text-align: center;
+        border: 0!important;
+        padding: 13px 0px 12px 0px;
+    }
+    .freebies .col-md-4 {
+        margin-bottom:25px;
+        padding-bottom:25px;
+        border-bottom:2px solid rgba(255,255,255,0.25)
+    }
+    .freebies .col-md-4:last-child {
+        margin-bottom:0;
+        padding-bottom:0;
+        border:0;
+    }
+    .ddos-2 img {
+        width:100%
+    }
+    section.why .hardware {
+        margin-top:35px
+    }
+    section.discover .col-md-3 {
+        margin-top: 35px
+    }
+    section.discover h2 {
+        padding-top: 40px
+    }
+    section.discover .col-md-3:first-child {
+        margin-top: 0px
+    }
+    section.locations .map {
+        background:transparent;
+        padding:10px 0
+    }
+    section.locations table.locations {
+        width:100%!important;
+    }
+    section.jar .col-md-4 {
+        margin-bottom:30px
+    }
+    section.jar .col-md-4:last-child {
+        margin-bottom:0
+    }
+    footer h4 {
+        font-size: 22px;
+    }
+    footer a {
+        font-size: 18px;
+    }
+    footer .col-md-1 img {
+        display: none;
+    }
+    footer .col-md-2 {
+        margin-bottom: 50px
+    }
+    footer .ssl {
+        padding: 20px 5px
+    }
+    footer .ssl .left {
+        width: 100%;
+        font-size: 30px;
+        padding-bottom: 10px
+    }
+    footer .ssl .right {
+        width: 100%;
+        font-size: 18px
+    }
+    .pre-footer .footer-partners {
+        display:none
+    }
+    footer #livechatinc {
+        display:none
+    }
+    .copyright {
+        padding: 20px 0px
+    }
+    .copyright .col-md-6 {
+        text-align: center!important
+    }
+    .copyright .col-md-6 span {
+        color: #333;
+        display: block;
+    }
+    .copyright .col-md-6.text-right {
+        display: none;
+    }
+    .alert-bugs {
+        display: none;
+    }
+    .col-md-9.main {
+        padding: 60px 25px;
+    }
+    .stat-block .stat {
+        margin-bottom: 30px;
+    }
+    .stat-block .stat:last-child {
+        margin-bottom: 0;
+    }
+    body.specs .hardware .icon {
+        width: 20%;
+        padding-right: 0%;
+        float: left;
+    }
+    body.specs .hardware .sub {
+        font-size: 9px;
+    }
+    section.support .overlay {
+        padding:0px 10px!important
+    }
+    section.support .row {
+        background:transparent;
+    }
+    body.plans .col-md-9 .col-md-4 {
+        margin-bottom:50px
+    }
+    body.plans .col-md-9 .col-md-4:last-child {
+        margin-bottom:25px
+    }
+    .support-window,.support-link {
+        display:none!important
+    }
+    .clients img.support-guy {
+        display:none
+    }
+    .clients .support-dept {
+        margin-bottom:30px;
+    }
+}
